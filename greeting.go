@@ -2,9 +2,6 @@ package main
 
 import "fmt"
 
-func main()
-{
-	Hello()string{
-		return "Hello"
+	func Hello()string{
+		fmt.Println("Hello from greeting")
 	}
-}
