@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-	func Hello()string{
+	func Hello(){
 		fmt.Println("Hello from greeting")
 	}
